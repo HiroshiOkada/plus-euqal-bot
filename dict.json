@@ -1,0 +1,11 @@
+{
+  "r": {
+    "long pen": "pen + pen",
+    "プログラム": "アルゴリズム + データ構造",
+    "Programs": "algorithms + data structures"
+  },
+  "pen+pen": "long pen",
+  "アルゴリズム+データ構造": "プログラム",
+  "Algorithms+Data Structures": "Programs",
+  "algorithms+data structures": "Programs"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "plus-euqal-bot",
+  "version": "0.1.0",
+  "description": "a mastodon bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hiroshi Okada",
+  "license": "MIT",
+  "dependencies": {
+    "mastodon": "^1.2.0"
+  }
+}
